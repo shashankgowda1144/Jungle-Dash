@@ -9,7 +9,6 @@ from pprint import pprint
 if not os.path.exists('levels/'):
 	os.mkdir('levels/')
 
-
 # EDIT HERE ( WINDOW SIZE & TILE SIZE )
 SIZE = WIDTH , HEIGHT= 1000, 650
 tile_size = 50
