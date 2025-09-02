@@ -39,19 +39,33 @@ NumPy
 📂 Project Structure
 
 Jungle-Dash/
+
 │── .idea/             # IDE configuration files
+
 │── __pycache__/       # Python cache files
+
 │── assets/            # Game assets (images, sprites, UI)
+
 │── levels/            # Predefined game levels
+
 │── player/            # Player animations and data
+
 │── sounds/            # Game sound effects and music
+
 │── tiles/             # Tilemaps and environment textures
+
 │── app.png            # Application icon / preview image
+
 │── level_editor.py    # Custom level editor script
+
 │── main.py            # Main game entry point
+
 │── objects.py         # Game objects and logic
+
 │── README.md          # Project documentation
+
 │── requirements.txt   # Dependencies file
+
 │── LICENSE            # License file (optional)
 
 
