@@ -2,6 +2,7 @@
 
 Jungle Dash is an action-platformer game with gesture-based interaction built using Python, PyGame, OpenCV, and MediaPipe. Players navigate through jungle-themed levels, using either keyboard controls or real-time gestures to run, jump, and dash while avoiding obstacles.
 
+
 🚀 Features
 
 🏃 Action-Platformer Gameplay – Dynamic running, jumping, and dashing.
@@ -14,9 +15,11 @@ Jungle Dash is an action-platformer game with gesture-based interaction built us
 
 🔊 Immersive Audio – Jungle-inspired sound effects and background music.
 
+
 🛠️ Tech Stack
 
 Language: Python
+
 
 Libraries & Tools:
 
@@ -32,7 +35,9 @@ MediaPipe
 NumPy
  – Data processing
 
+
 📂 Project Structure
+
 Jungle-Dash/
 │── .idea/             # IDE configuration files
 │── __pycache__/       # Python cache files
@@ -49,27 +54,11 @@ Jungle-Dash/
 │── requirements.txt   # Dependencies file
 │── LICENSE            # License file (optional)
 
-⚡ Installation & Setup
-
-Clone the repository:
-
-git clone https://github.com/your-username/jungle-dash.git
-cd jungle-dash
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
 
 Run the game:
 
 python main.py
 
-
-(Optional) Run the Level Editor:
-
-python level_editor.py
 
 🎮 How to Play
 
@@ -81,25 +70,3 @@ Space – Jump
 
 P – Pause
 
-Gesture Controls (via webcam):
-
-✊ Closed Fist – Stop movement
-
-✋ Open Palm – Move forward
-
-👉 Pointing Gesture – Dash / special move
-
-📸 Screenshots
-
-(Add your images here)
-
-![Gameplay Screenshot](assets/screenshots/gameplay.png)
-![Level Editor](assets/screenshots/editor.png)
-
-👨‍💻 Contributors
-
-Manoj M K (1KG22CS407)
-
-Nabeel Baig (1KG22CS408)
-
-Shashank D D (1KG22CS411)
