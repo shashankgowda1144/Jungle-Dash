@@ -29,7 +29,6 @@ dead_fx = pygame.mixer.Sound('sounds/406113__daleonfire__dead.wav')
 dead_fx.set_volume(0.5)
 sounds = [diamond_fx, ]
 
-
 # loading images
 dead_img = pygame.image.load('assets/ghost.png')
 game_over_img = pygame.image.load('assets/gover.png')
